@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulMaiyaniSerian
-- 👀 I’m interested in web development, rest apis and vuejs
+- 👀 I’m interested in web development, rest apis, django, golang, javascript and vue-js
 - 🌱 I’m currently learning vuejs 
 - 💞️ I’m looking to collaborate on rest api development using python and frontend vuejs projects
 - 📫 How to reach me +254759288121 whatsapp and calls
